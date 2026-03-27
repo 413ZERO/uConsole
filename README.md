@@ -1,3 +1,3 @@
 # uConsole
 
-### Things I have made for uConsole will goes here
+### Things I have made for the uConsole will go here.
